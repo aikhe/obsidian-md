@@ -46,13 +46,11 @@
 ##### **23** (bomodoro-py)
 - [x] TImer functionality implemented
 
-##### **24**
+##### **24 next-canvas**
 - [x] Getting into Next.js
 ##### **25**
 - [x] *ICT 11-5 programming act (CSS Selectors)* 
-- [[CSS Selectors.pdf]] **passed**
-
-![[CSS Selectors]]
+- [[CSS Selectors]] **passed**
 ##### **26** 
 - [x] App router ng Nextjs malala
 - [x] Initial nextjs boilerplate, includes react-three-fiber, framer-motion and Shadcn for UI
@@ -60,17 +58,30 @@
 - [x] Backend initial **(prismadb & neontech)**
 ##### **28** 
 - [x] More backend
-
 ##### **29** 
 - [x] Still working on implementing a CRUD process using prisma ORM
 ##### **30** 
 - [x] *ICT 11-5 programming act (HTML \<form> Element)* 
 - [[HTML form Element]]
+
+
+
 ##### **01 CRUD implementation finished**
 - [x] Fully working CRUD process using prisma
 - Need a fix on production and vercel deployment
 ##### **02** 
 - [x] More Backed stuff
+##### **03** 
+- [x] More prisma
+##### **04** 
+- [x] Backend reset initial (for vercel deployment)
+##### **05** 
+- [x] UI (Incrementing, deleting, editing)
+- [x] Made UI functional, will connect to prisma/backend next
+##### **06** 
+- [x] Prisma & supabase initial
+##### **07** 
+- [x] Fixed UI
 
 - [ ] Leetcode baby
 - [ ] Timer bomb with python (Tokyo spliff inspired)
@@ -82,3 +93,5 @@
 - [ ] Strapi CMS randomly
 
 - [ ] Github pages
+
+- [ ] Anonymous picture sending shit like the one they use on facebook
